@@ -1,0 +1,19 @@
+{
+  "breeds": [
+    {
+      "id": "american-foxhound",
+      "name": "American Foxhound",
+      "size": 3,
+      "kids": 5,
+      "shed": 2,
+      "groom": 5,
+      "energy": 5,
+      "health": 5,
+      "barks": 1,
+      "intelligence": 3,
+      "train": 2,
+      "hot": 4,
+      "cold": 4
+    }
+  ]
+}
